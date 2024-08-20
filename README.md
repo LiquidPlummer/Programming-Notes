@@ -16,3 +16,12 @@
    - Interfaces & abstract classes
    - Overriding & Overloading
    - Collections
+ - Practical Coding
+   - Maven Projects
+   - ArrayList & LinkedList
+   - Iterator & Iterable
+   - Design Patterns
+     - POJO
+     - Singleton
+     - Factory & Builder
+     - Pub/Sub/Observer
