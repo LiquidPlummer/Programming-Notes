@@ -24,4 +24,5 @@
      - POJO
      - Singleton
      - Factory & Builder
-     - Pub/Sub/Observer
+ - Functional Programming
+   - Pub/Sub/Observer
