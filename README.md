@@ -24,5 +24,10 @@
      - POJO
      - Singleton
      - Factory & Builder
+ - JDBC
+   - Connections, Drivers
+   - Statements
+   - Executing CRUD
+   - Result Sets
  - Functional Programming
    - Pub/Sub/Observer
