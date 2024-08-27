@@ -29,5 +29,6 @@
    - Statements
    - Executing CRUD
    - Result Sets
+   - DAO Design Pattern
  - Functional Programming
    - Pub/Sub/Observer
