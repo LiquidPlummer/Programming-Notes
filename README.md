@@ -25,4 +25,4 @@
      - Singleton
      - Factory & Builder
      - Pub/Sub/Observer
-   - Functional Programming
+ - Functional Programming
